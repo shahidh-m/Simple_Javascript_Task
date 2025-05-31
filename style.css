@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    list-style-type: none;
+    background-color: black;
+    color: aliceblue;
+}
+input,button{
+    border-color: aliceblue;
+    border-radius: 5px;
+}
+li{
+  margin-top: 5px;
+}
+#dele{
+    margin: 8px;
+}
+button:hover{
+    color:black;
+    background-color: green;
+}
